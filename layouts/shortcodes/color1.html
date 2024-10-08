@@ -1,0 +1,6 @@
+{{ $color := .Get "color" | default  "red" }}
+
+<h3 style=" color: {{ $color }}">
+    Esto es un texto de una plantilla
+    {{ .Inner }}
+</h3>

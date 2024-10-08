@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal :: Web site Manuel</title>
+    <link>http://localhost:44629/personal/index.html</link>
+    <description>Sobre mí Esta página tiene información sobre mi experiencia técnica&#xA;Principal</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Oct 2024 13:25:27 +0200</lastBuildDate>
+    <atom:link href="http://localhost:44629/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown</title>
+      <link>http://localhost:44629/personal/02_markdown/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 13:25:27 +0200</pubDate>
+      <guid>http://localhost:44629/personal/02_markdown/index.html</guid>
+      <description>Edición básica Títulos Para establece los títulos usaré la siguiente sintaxis&#xA;# titulo1 ## titulo2 ### titulo3 #### titulo4 ##### titulo5 ###### titulo6 Y se verá&#xA;titulo1 titulo2 titulo3 titulo4 titulo5 titulo6 Negrita y formato Para ver el texto en negrita escribo&#xA;**Texto en negrita** texto normal Creando Para usar un shortcode debes de especificarlo con los siguientes metacaracteres:&#xA;{{`&lt;&gt;}} PHP es un lenguaje interesante y bonito accede a la web</description>
+    </item>
+  </channel>
+</rss>

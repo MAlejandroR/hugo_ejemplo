@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Descargas :: Web site Manuel</title>
+    <link>http://localhost:44629/descargas/index.html</link>
+    <description>Recursos que puedes obtener Attachments 1.png (30 KB) Captura desde 2024-09-17 11-08-20.png (30 KB) documentacion.pdf (7 KB) imagenes/2.png (0 B) imagenes/Captura desde 2024-09-17 11-08-20.png (0 B) texto.odt (9 KB)</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:44629/descargas/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

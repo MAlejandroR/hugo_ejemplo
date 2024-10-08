@@ -1,0 +1,6 @@
+{{ $color := .Get "color" | default "red" }}
+<strong>
+<span style="color:{{$color}}">
+    {{.Inner}}
+</span>
+</strong>

@@ -1,0 +1,71 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Web site Manuel'
+
+theme= "relearn"
+
+
+
+[[params.themeVariant]]
+    auto = []
+    identifier = 'relearn-auto'
+    name = 'Relearn Light/Dark'
+
+  [[params.themeVariant]]
+    identifier = 'relearn-light'
+
+  [[params.themeVariant]]
+    identifier = 'relearn-dark'
+
+  [[params.themeVariant]]
+    identifier = 'relearn-bright'
+
+  [[params.themeVariant]]
+    auto = ['zen-light', 'zen-dark']
+    identifier = 'zen-auto'
+    name = 'Zen Light/Dark'
+
+  [[params.themeVariant]]
+    identifier = 'zen-light'
+
+  [[params.themeVariant]]
+    identifier = 'zen-dark'
+
+  [[params.themeVariant]]
+    auto = ['learn', 'neon']
+    identifier = 'retro-auto'
+    name = 'Retro Learn/Neon'
+
+  [[params.themeVariant]]
+    identifier = 'neon'
+
+  [[params.themeVariant]]
+    identifier = 'learn'
+
+  [[params.themeVariant]]
+    identifier = 'blue'
+
+  [[params.themeVariant]]
+    identifier = 'green'
+
+  [[params.themeVariant]]
+    identifier = 'red'
+
+
+    [[menu.shortcuts]]
+    name="<i class='fab fa-php'></i>   Lenguaje php"
+    identified=""
+    url="https://php.net"
+    weight=1
+
+    [[menu.shortcuts]]
+    name="<i class='fab fa-wikipedia-w'></i>   Wiki del curso"
+    identified=""
+    url="https://es.wikieducator.org/Usuario:ManuelRomero/ProgramacionWeb/Contenido"
+    weight=2
+
+    [[menu.shortcuts]]
+    name="<i class='far fa-question-circle'></i>   Ejercicios resueltos"
+    identified=""
+    url="http://manuel.infenlaces.com/dwes/ejercicios/"
+    weight=3
